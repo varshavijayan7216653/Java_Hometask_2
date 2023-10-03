@@ -1,6 +1,7 @@
 # Java_Hometask_2
-**Matriculation Number :7216653
-  Name : Varsha Vijayan**
+**Matriculation Number :7216653**
+
+ **Name : Varsha Vijayan**
 
 Create class Car: id, Make, Model, Year of manufacture, Color, Price, 
 Registration number. Create an array of objects. 
